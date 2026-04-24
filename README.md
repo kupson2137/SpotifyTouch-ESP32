@@ -1,6 +1,6 @@
 # 🎵 Spotify Bluetooth Controller (ESP32)
 
-Stylowy i funkcjonalny pilot do Spotify oparty na mikrokontrolerze ESP32 oraz dotykowym ekranie TFT 2.4". Urządzenie komunikuje się z komputerem lub telefonem przez Bluetooth (udając klawiaturę multimedialną), co pozwala na sterowanie muzyką bez dotykania głównego urządzenia.
+Stylowy i funkcjonalny pilot do Spotify oparty na mikrokontrolerze ESP32 oraz dotykowym ekranie TFT 2.8". Urządzenie komunikuje się z komputerem lub telefonem przez Bluetooth (udając klawiaturę multimedialną), co pozwala na sterowanie muzyką bez dotykania głównego urządzenia.
 
 ## 🚀 Funkcje
 - **Płynny start:** Animowany pasek ładowania (300 kroków z efektem easing).
