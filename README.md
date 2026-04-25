@@ -16,7 +16,7 @@ Stylowy i funkcjonalny pilot do Spotify oparty na mikrokontrolerze ESP32 oraz do
 |-----------|-------------------------|
 | **VCC** | 3.3V                    |
 | **GND** | GND                     |
-| **LCD LED**| GPIO 15 (Backlight)    |
+| **LCD LED**| GPIO 15 / 3.3v    |
 | **LCD CS** | GPIO 5                 |
 | **LCD DC** | GPIO 2                 |
 | **LCD RST**| GPIO 4                 |
