@@ -45,7 +45,7 @@ Aby skompilować projekt, musisz mieć zainstalowane następujące biblioteki w 
 Ze względu na rozmiar stosu Bluetooth (biblioteka `BleKeyboard`), projekt wymaga odpowiedniego ustawienia partycji pamięci Flash. Jeśli użyjesz domyślnych ustawień, kod może się nie zmieścić.
 
 ### Wymagania:
-- **Mikrokontroler:** ESP32 (Flash 4MB).
+- **Mikrokontroler:** ESP32 Wroom (Flash 4MB).
 - **Partition Scheme:** Musisz ustawić na **Huge APP (3MB No OTA/1MB SPIFFS)**.
 
 ### Jak to ustawić?
