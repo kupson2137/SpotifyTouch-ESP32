@@ -12,17 +12,20 @@ Stylowy i funkcjonalny pilot do Spotify oparty na mikrokontrolerze ESP32 oraz do
 
 ## 🛠️ Schemat połączeń (Pinout)
 
-| Komponent | Pin (ESP32) |
-|-----------|-------------|
-| **LCD CS** | GPIO 5 |
-| **LCD DC** | GPIO 2 |
-| **LCD RST** | GPIO 4 |
-| **LCD MOSI**| GPIO 23 |
-| **LCD SCK** | GPIO 18 |
-| **TOUCH CS**| GPIO 27 |
-| **TOUCH CLK**| GPIO 25 |
-| **TOUCH DIN**| GPIO 32 |
-| **TOUCH DO** | GPIO 34 |
+| Komponent | Pin (ESP32 / Zasilanie) |
+|-----------|-------------------------|
+| **VCC** | 3.3V                    |
+| **GND** | GND                     |
+| **LCD LED**| GPIO 15 (Backlight)    |
+| **LCD CS** | GPIO 5                 |
+| **LCD DC** | GPIO 2                 |
+| **LCD RST**| GPIO 4                 |
+| **LCD MOSI**| GPIO 23                |
+| **LCD SCK** | GPIO 18                |
+| **TOUCH CS**| GPIO 27                |
+| **TOUCH CLK**| GPIO 25                |
+| **TOUCH DIN**| GPIO 32                |
+| **TOUCH DO** | GPIO 34                |
 
 ## 📦 Wymagane biblioteki
 Aby skompilować projekt, musisz mieć zainstalowane następujące biblioteki w Arduino IDE:
